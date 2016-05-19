@@ -440,7 +440,7 @@ main {
 }
 
 .zoomContainer, .zoomWindow {
-    z-index: 4 !important;
+    z-index: 2000 !important;
 }
 
 #intensity-slider-pips, #feedback-intensity-slider-pips {
